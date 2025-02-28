@@ -1,0 +1,15 @@
+/* Reset default margins and paddings */
+body {
+    margin: 0;
+    padding: 0;
+    background: #ffffff;
+    
+    overflow: hidden;
+  }
+  
+  
+  canvas {
+    display: block;
+    margin: 0 auto;
+  }
+  
